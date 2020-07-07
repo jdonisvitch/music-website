@@ -11,7 +11,7 @@
   "author": "Jerry Garcia @ BRS",
   "license": "MIT",
   "dependencies": {
-    "npm": "^6.13.4",
+    "npm": "^6.14.6",
     "react": "^16.12.0",
     "react-bootstrap": "^0.32.4",
     "react-dom": "^16.12.0"
