@@ -1,6 +1,6 @@
 {
   "name": "jdonisvitch-music",
-  "version": "0.5.1",
+  "version": "0.6.0",
   "description": "A single page website for highlighting musical work.",
   "main": "app.js",
   "scripts": {
@@ -11,21 +11,21 @@
   "author": "jdonisvitch",
   "license": "MIT",
   "dependencies": {
-    "npm": "^7.10.0",
+    "npm": "^7.11.1",
     "react": "^17.0.2",
     "react-bootstrap": "^1.5.2",
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@babel/core": "^7.13.15",
+    "@babel/core": "^7.13.16",
     "@babel/preset-env": "^7.13.15",
     "@babel/preset-react": "^7.13.13",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.2.2",
-    "eslint": "^7.24.0",
+    "eslint": "^7.25.0",
     "eslint-plugin-react": "^7.23.2",
     "serialize-javascript": "5.0.1",
-    "webpack": "^5.34.0",
+    "webpack": "^5.35.1",
     "webpack-cli": "^4.6.0",
     "webpack-dev-server": "^3.11.2"
   }
